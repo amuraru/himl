@@ -31,6 +31,13 @@ Idea came from puppet's hiera.
 pip install himl
 ```
 
+### Using `docker` image
+
+```sh
+docker run ghcr.io/adobe/himl:latest himl-config-merger --help
+```
+
+
 ### From Source
 
 ```

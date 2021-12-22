@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: adobe/himl
+  IMAGE_NAME: amuraru/himl
 
 jobs:
   build:
